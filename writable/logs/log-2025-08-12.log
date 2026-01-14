@@ -1,0 +1,111 @@
+ERROR - 2025-08-12 02:37:40 --> Failed to create Snap Token: Midtrans API is returning API error. HTTP status code: 401 API response: {"error_messages":["Access denied due to unauthorized transaction, please check client or server key","Visit https://docs.midtrans.com/reference/backend-integration for more details"]}
+ERROR - 2025-08-12 02:37:40 --> Exception trace: #0 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\ApiRequestor.php(39): Midtrans\ApiRequestor::remoteCall('https://app.san...', 'SB-Mid-server-n...', Array, 'POST')
+#1 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\Snap.php(109): Midtrans\ApiRequestor::post('https://app.san...', 'SB-Mid-server-n...', Array)
+#2 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\Snap.php(36): Midtrans\Snap::createTransaction(Array)
+#3 C:\laragon\www\pointofsale\app\Controllers\Payment.php(110): Midtrans\Snap::getSnapToken(Array)
+#4 C:\laragon\www\pointofsale\system\CodeIgniter.php(824): App\Controllers\Payment->createSnapToken()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+#6 C:\laragon\www\pointofsale\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\pointofsale\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\laragon\www\pointofsale\system\Commands\Server\rewrite.php(43): require_once('C:\\laragon\\www\\...')
+#9 {main}
+ERROR - 2025-08-12 02:39:14 --> Failed to create Snap Token: Midtrans API is returning API error. HTTP status code: 401 API response: {"error_messages":["Access denied due to unauthorized transaction, please check client or server key","Visit https://docs.midtrans.com/reference/backend-integration for more details"]}
+ERROR - 2025-08-12 02:39:14 --> Exception trace: #0 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\ApiRequestor.php(39): Midtrans\ApiRequestor::remoteCall('https://app.san...', 'SB-Mid-server-n...', Array, 'POST')
+#1 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\Snap.php(109): Midtrans\ApiRequestor::post('https://app.san...', 'SB-Mid-server-n...', Array)
+#2 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\Snap.php(36): Midtrans\Snap::createTransaction(Array)
+#3 C:\laragon\www\pointofsale\app\Controllers\Payment.php(110): Midtrans\Snap::getSnapToken(Array)
+#4 C:\laragon\www\pointofsale\system\CodeIgniter.php(824): App\Controllers\Payment->createSnapToken()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+#6 C:\laragon\www\pointofsale\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\pointofsale\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\laragon\www\pointofsale\system\Commands\Server\rewrite.php(43): require_once('C:\\laragon\\www\\...')
+#9 {main}
+ERROR - 2025-08-12 02:40:46 --> Failed to create Snap Token: Midtrans API is returning API error. HTTP status code: 401 API response: {"error_messages":["Access denied due to unauthorized transaction, please check client or server key","Visit https://docs.midtrans.com/reference/backend-integration for more details"]}
+ERROR - 2025-08-12 02:40:46 --> Exception trace: #0 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\ApiRequestor.php(39): Midtrans\ApiRequestor::remoteCall('https://app.san...', 'SB-Mid-server-n...', Array, 'POST')
+#1 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\Snap.php(109): Midtrans\ApiRequestor::post('https://app.san...', 'SB-Mid-server-n...', Array)
+#2 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\Snap.php(36): Midtrans\Snap::createTransaction(Array)
+#3 C:\laragon\www\pointofsale\app\Controllers\Payment.php(110): Midtrans\Snap::getSnapToken(Array)
+#4 C:\laragon\www\pointofsale\system\CodeIgniter.php(824): App\Controllers\Payment->createSnapToken()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+#6 C:\laragon\www\pointofsale\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\pointofsale\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\laragon\www\pointofsale\system\Commands\Server\rewrite.php(43): require_once('C:\\laragon\\www\\...')
+#9 {main}
+ERROR - 2025-08-12 02:44:35 --> Failed to create Snap Token: Midtrans API is returning API error. HTTP status code: 401 API response: {"error_messages":["Access denied due to unauthorized transaction, please check client or server key","Visit https://docs.midtrans.com/reference/backend-integration for more details"]}
+ERROR - 2025-08-12 02:44:35 --> Exception trace: #0 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\ApiRequestor.php(39): Midtrans\ApiRequestor::remoteCall('https://app.san...', 'SB-Mid-server-n...', Array, 'POST')
+#1 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\Snap.php(109): Midtrans\ApiRequestor::post('https://app.san...', 'SB-Mid-server-n...', Array)
+#2 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\Snap.php(36): Midtrans\Snap::createTransaction(Array)
+#3 C:\laragon\www\pointofsale\app\Controllers\Payment.php(110): Midtrans\Snap::getSnapToken(Array)
+#4 C:\laragon\www\pointofsale\system\CodeIgniter.php(824): App\Controllers\Payment->createSnapToken()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+#6 C:\laragon\www\pointofsale\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\pointofsale\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\laragon\www\pointofsale\system\Commands\Server\rewrite.php(43): require_once('C:\\laragon\\www\\...')
+#9 {main}
+ERROR - 2025-08-12 03:56:55 --> Failed to create Snap Token: Midtrans API is returning API error. HTTP status code: 401 API response: {"error_messages":["Access denied due to unauthorized transaction, please check client or server key","Visit https://docs.midtrans.com/reference/backend-integration for more details"]}
+ERROR - 2025-08-12 03:56:55 --> Exception trace: #0 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\ApiRequestor.php(39): Midtrans\ApiRequestor::remoteCall('https://app.san...', 'SB-Mid-server-1...', Array, 'POST')
+#1 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\Snap.php(109): Midtrans\ApiRequestor::post('https://app.san...', 'SB-Mid-server-1...', Array)
+#2 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\Snap.php(36): Midtrans\Snap::createTransaction(Array)
+#3 C:\laragon\www\pointofsale\app\Controllers\Payment.php(110): Midtrans\Snap::getSnapToken(Array)
+#4 C:\laragon\www\pointofsale\system\CodeIgniter.php(824): App\Controllers\Payment->createSnapToken()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+#6 C:\laragon\www\pointofsale\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\pointofsale\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\laragon\www\pointofsale\system\Commands\Server\rewrite.php(43): require_once('C:\\laragon\\www\\...')
+#9 {main}
+ERROR - 2025-08-12 03:58:36 --> Failed to create Snap Token: Midtrans API is returning API error. HTTP status code: 401 API response: {"error_messages":["Access denied due to unauthorized transaction, please check client or server key","Visit https://docs.midtrans.com/reference/backend-integration for more details"]}
+ERROR - 2025-08-12 03:58:36 --> Exception trace: #0 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\ApiRequestor.php(39): Midtrans\ApiRequestor::remoteCall('https://app.san...', 'SB-Mid-server-1...', Array, 'POST')
+#1 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\Snap.php(109): Midtrans\ApiRequestor::post('https://app.san...', 'SB-Mid-server-1...', Array)
+#2 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\Snap.php(36): Midtrans\Snap::createTransaction(Array)
+#3 C:\laragon\www\pointofsale\app\Controllers\Payment.php(110): Midtrans\Snap::getSnapToken(Array)
+#4 C:\laragon\www\pointofsale\system\CodeIgniter.php(824): App\Controllers\Payment->createSnapToken()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+#6 C:\laragon\www\pointofsale\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\pointofsale\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\laragon\www\pointofsale\system\Commands\Server\rewrite.php(43): require_once('C:\\laragon\\www\\...')
+#9 {main}
+ERROR - 2025-08-12 04:02:00 --> Failed to create Snap Token: Midtrans API is returning API error. HTTP status code: 401 API response: {"error_messages":["Access denied due to unauthorized transaction, please check client or server key","Visit https://docs.midtrans.com/reference/backend-integration for more details"]}
+ERROR - 2025-08-12 04:02:00 --> Exception trace: #0 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\ApiRequestor.php(39): Midtrans\ApiRequestor::remoteCall('https://app.san...', 'SB-Mid-server-1...', Array, 'POST')
+#1 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\Snap.php(109): Midtrans\ApiRequestor::post('https://app.san...', 'SB-Mid-server-1...', Array)
+#2 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\Snap.php(36): Midtrans\Snap::createTransaction(Array)
+#3 C:\laragon\www\pointofsale\app\Controllers\Payment.php(110): Midtrans\Snap::getSnapToken(Array)
+#4 C:\laragon\www\pointofsale\system\CodeIgniter.php(824): App\Controllers\Payment->createSnapToken()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+#6 C:\laragon\www\pointofsale\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\pointofsale\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\laragon\www\pointofsale\system\Commands\Server\rewrite.php(43): require_once('C:\\laragon\\www\\...')
+#9 {main}
+ERROR - 2025-08-12 04:10:26 --> Failed to create Snap Token: Midtrans API is returning API error. HTTP status code: 401 API response: {"error_messages":["Access denied due to unauthorized transaction, please check client or server key","Visit https://docs.midtrans.com/reference/backend-integration for more details"]}
+ERROR - 2025-08-12 04:10:26 --> Exception trace: #0 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\ApiRequestor.php(39): Midtrans\ApiRequestor::remoteCall('https://app.mid...', 'Mid-server-1gFh...', Array, 'POST')
+#1 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\Snap.php(109): Midtrans\ApiRequestor::post('https://app.mid...', 'Mid-server-1gFh...', Array)
+#2 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\Snap.php(36): Midtrans\Snap::createTransaction(Array)
+#3 C:\laragon\www\pointofsale\app\Controllers\Payment.php(110): Midtrans\Snap::getSnapToken(Array)
+#4 C:\laragon\www\pointofsale\system\CodeIgniter.php(824): App\Controllers\Payment->createSnapToken()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+#6 C:\laragon\www\pointofsale\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\pointofsale\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\laragon\www\pointofsale\system\Commands\Server\rewrite.php(43): require_once('C:\\laragon\\www\\...')
+#9 {main}
+ERROR - 2025-08-12 04:40:15 --> Failed to create Snap Token: Midtrans API is returning API error. HTTP status code: 401 API response: {"error_messages":["Access denied due to unauthorized transaction, please check client or server key","Visit https://docs.midtrans.com/reference/backend-integration for more details"]}
+ERROR - 2025-08-12 04:40:15 --> Exception trace: #0 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\ApiRequestor.php(39): Midtrans\ApiRequestor::remoteCall('https://app.san...', 'SB-Mid-server-1...', Array, 'POST')
+#1 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\Snap.php(109): Midtrans\ApiRequestor::post('https://app.san...', 'SB-Mid-server-1...', Array)
+#2 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\Snap.php(36): Midtrans\Snap::createTransaction(Array)
+#3 C:\laragon\www\pointofsale\app\Controllers\Payment.php(115): Midtrans\Snap::getSnapToken(Array)
+#4 C:\laragon\www\pointofsale\system\CodeIgniter.php(824): App\Controllers\Payment->createSnapToken()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+#6 C:\laragon\www\pointofsale\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\pointofsale\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\laragon\www\pointofsale\system\Commands\Server\rewrite.php(43): require_once('C:\\laragon\\www\\...')
+#9 {main}
+ERROR - 2025-08-12 04:45:32 --> Failed to create Snap Token: Midtrans API is returning API error. HTTP status code: 401 API response: {"error_messages":["Access denied due to unauthorized transaction, please check client or server key","Visit https://docs.midtrans.com/reference/backend-integration for more details"]}
+ERROR - 2025-08-12 04:45:32 --> Exception trace: #0 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\ApiRequestor.php(39): Midtrans\ApiRequestor::remoteCall('https://app.san...', 'SB-Mid-server-1...', Array, 'POST')
+#1 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\Snap.php(109): Midtrans\ApiRequestor::post('https://app.san...', 'SB-Mid-server-1...', Array)
+#2 C:\laragon\www\pointofsale\vendor\midtrans\midtrans-php\Midtrans\Snap.php(36): Midtrans\Snap::createTransaction(Array)
+#3 C:\laragon\www\pointofsale\app\Controllers\Payment.php(115): Midtrans\Snap::getSnapToken(Array)
+#4 C:\laragon\www\pointofsale\system\CodeIgniter.php(824): App\Controllers\Payment->createSnapToken()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+#6 C:\laragon\www\pointofsale\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\pointofsale\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\laragon\www\pointofsale\system\Commands\Server\rewrite.php(43): require_once('C:\\laragon\\www\\...')
+#9 {main}
+ERROR - 2025-08-12 09:08:42 --> Midtrans Snap Token Error: Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["customer_details.email format is invalid"]}

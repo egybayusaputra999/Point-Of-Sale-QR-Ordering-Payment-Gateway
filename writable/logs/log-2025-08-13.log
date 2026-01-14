@@ -1,0 +1,9 @@
+ERROR - 2025-08-13 11:46:56 --> Column 'idUser' cannot be null
+ERROR - 2025-08-13 11:46:56 --> Cannot add or update a child row: a foreign key constraint fails (`cafein`.`transaksi`, CONSTRAINT `transaksi_ibfk_1` FOREIGN KEY (`idAntrian`) REFERENCES `antrian` (`id`) ON UPDATE CASCADE)
+ERROR - 2025-08-13 11:46:56 --> Cannot add or update a child row: a foreign key constraint fails (`cafein`.`transaksi`, CONSTRAINT `transaksi_ibfk_1` FOREIGN KEY (`idAntrian`) REFERENCES `antrian` (`id`) ON UPDATE CASCADE)
+ERROR - 2025-08-13 11:50:09 --> Column 'idUser' cannot be null
+ERROR - 2025-08-13 11:50:09 --> Cannot add or update a child row: a foreign key constraint fails (`cafein`.`transaksi`, CONSTRAINT `transaksi_ibfk_1` FOREIGN KEY (`idAntrian`) REFERENCES `antrian` (`id`) ON UPDATE CASCADE)
+ERROR - 2025-08-13 11:50:09 --> Cannot add or update a child row: a foreign key constraint fails (`cafein`.`transaksi`, CONSTRAINT `transaksi_ibfk_1` FOREIGN KEY (`idAntrian`) REFERENCES `antrian` (`id`) ON UPDATE CASCADE)
+ERROR - 2025-08-13 11:50:57 --> Column 'idUser' cannot be null
+ERROR - 2025-08-13 11:50:57 --> Cannot add or update a child row: a foreign key constraint fails (`cafein`.`transaksi`, CONSTRAINT `transaksi_ibfk_1` FOREIGN KEY (`idAntrian`) REFERENCES `antrian` (`id`) ON UPDATE CASCADE)
+ERROR - 2025-08-13 11:50:57 --> Cannot add or update a child row: a foreign key constraint fails (`cafein`.`transaksi`, CONSTRAINT `transaksi_ibfk_1` FOREIGN KEY (`idAntrian`) REFERENCES `antrian` (`id`) ON UPDATE CASCADE)

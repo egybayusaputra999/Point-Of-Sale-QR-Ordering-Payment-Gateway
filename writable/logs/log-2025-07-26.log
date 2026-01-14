@@ -1,0 +1,9 @@
+CRITICAL - 2025-07-26 00:39:49 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
