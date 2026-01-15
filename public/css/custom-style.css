@@ -1,0 +1,46 @@
+/* Custom styles for KUBOKOPI Brand */
+
+/* Brand Logo Styles */
+.brand-logo h1,
+.brand-logo h2 {
+    margin: 0;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.brand-logo h2 {
+    font-size: 1.8rem;
+}
+
+/* Marquee Styles */
+.brand-marquee {
+    behavior: scroll;
+    direction: left;
+    scroll-behavior: smooth;
+    width: 150px;
+}
+
+/* Brand Text Colors */
+.brand-kubo {
+    color: black;
+}
+
+.brand-kopi {
+    color: #8B4513;
+}
+
+/* Mini Logo Styles */
+.brand-logo-mini .brand-kubo,
+.brand-logo-mini .brand-kopi {
+    font-weight: bold;
+    background-color: #5D4037;
+}
+
+/* Admin icon brown background */
+.btn-google .mdi-account-check {
+    background-color: #3E2723;
+    color: #FFFFFF;
+    border-radius: 50%;
+    padding: 3px;
+    margin-right: 5px;
+}

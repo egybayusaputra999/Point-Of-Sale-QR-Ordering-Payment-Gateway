@@ -1,0 +1,45 @@
+/* Chart.js Styling Fixes */
+
+/* Fix for chart container */
+#grafikPendapatanMingguan {
+    width: 100% !important;
+    height: 300px !important;
+    background-color: rgba(255, 255, 255, 0.8) !important;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Fix for chart labels */
+.chart-legend {
+    font-family: 'Arial', sans-serif;
+    font-size: 12px;
+    color: #333;
+}
+
+/* Fix for chart tooltip */
+.chartjs-tooltip {
+    background: rgba(255, 255, 255, 0.9) !important;
+    border-radius: 4px !important;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2) !important;
+    padding: 8px !important;
+    color: #333 !important;
+    border: 1px solid #ddd !important;
+}
+
+/* Fix for chart grid lines */
+.chartjs-render-monitor {
+    border: 1px solid #eee;
+}
+
+/* Fix for chart background - only target specific card-body */
+.card .card-body {
+    background-color: #FFF8DC !important;
+}
+
+/* Fix for chart title - only target specific card-title */
+.card .card-title {
+    color: #8B4513 !important;
+    font-weight: bold !important;
+    margin-bottom: 15px !important;
+}

@@ -1,0 +1,189 @@
+CRITICAL - 2025-07-14 06:06:12 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-14 06:06:28 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-14 06:11:29 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-14 06:13:57 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-14 06:20:07 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-14 07:25:34 --> file_get_contents(): read of 8192 bytes failed with errno=13 Permission denied
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'file_get_conten...', 'C:\\laragon\\www\\...', 460, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): file_get_contents('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#5 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2025-07-14 07:25:36 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-14 08:04:48 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-14 08:11:52 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-14 13:15:16 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-14 13:19:31 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-14 13:20:26 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-14 13:23:13 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-14 13:26:15 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-14 13:39:18 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-14 13:40:41 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-14 13:44:27 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-14 13:44:47 --> file_get_contents(): read of 8192 bytes failed with errno=13 Permission denied
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'file_get_conten...', 'C:\\laragon\\www\\...', 80, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar\Collectors\History.php(80): file_get_contents('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1752518686, 20)
+#3 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-07-14 14:27:19 --> Cannot call constructor
+#0 C:\laragon\www\pointofsale\system\CodeIgniter.php(801): App\Controllers\Dashboard->__construct()
+#1 C:\laragon\www\pointofsale\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\laragon\www\pointofsale\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2025-07-14 14:27:27 --> Cannot call constructor
+#0 C:\laragon\www\pointofsale\system\CodeIgniter.php(801): App\Controllers\Dashboard->__construct()
+#1 C:\laragon\www\pointofsale\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\laragon\www\pointofsale\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2025-07-14 14:33:17 --> Cannot call constructor
+#0 C:\laragon\www\pointofsale\system\CodeIgniter.php(801): App\Controllers\Menu->__construct()
+#1 C:\laragon\www\pointofsale\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\laragon\www\pointofsale\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2025-07-14 14:36:20 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

@@ -1,0 +1,107 @@
+CRITICAL - 2025-07-23 07:05:10 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-23 07:06:17 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-23 07:08:38 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2025-07-23 08:33:32 --> Barcode not found or inactive: MEJA01_6880d5c4554d9
+ERROR - 2025-07-23 08:35:15 --> Barcode not found or inactive: MEJA01_6880d627ac962
+CRITICAL - 2025-07-23 08:38:44 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-23 08:51:19 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2025-07-23 09:08:12 --> Cannot add or update a child row: a foreign key constraint fails (`cafein`.`antrian`, CONSTRAINT `antrian_ibfk_1` FOREIGN KEY (`idUser`) REFERENCES `user` (`id`) ON UPDATE CASCADE)
+ERROR - 2025-07-23 09:09:57 --> Cannot add or update a child row: a foreign key constraint fails (`cafein`.`antrian`, CONSTRAINT `antrian_ibfk_1` FOREIGN KEY (`idUser`) REFERENCES `user` (`id`) ON UPDATE CASCADE)
+CRITICAL - 2025-07-23 09:10:10 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2025-07-23 09:15:04 --> Cannot add or update a child row: a foreign key constraint fails (`cafein`.`antrian`, CONSTRAINT `antrian_ibfk_1` FOREIGN KEY (`idUser`) REFERENCES `user` (`id`) ON UPDATE CASCADE)
+ERROR - 2025-07-23 10:35:10 --> Cannot add or update a child row: a foreign key constraint fails (`cafein`.`antrian`, CONSTRAINT `antrian_ibfk_1` FOREIGN KEY (`idUser`) REFERENCES `user` (`id`) ON UPDATE CASCADE)
+CRITICAL - 2025-07-23 10:35:28 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-23 10:35:41 --> file_get_contents(): read of 8192 bytes failed with errno=13 Permission denied
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'file_get_conten...', 'C:\\laragon\\www\\...', 460, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): file_get_contents('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#5 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2025-07-23 10:35:58 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2025-07-23 10:38:55 --> Cannot add or update a child row: a foreign key constraint fails (`cafein`.`antrian`, CONSTRAINT `antrian_ibfk_1` FOREIGN KEY (`idUser`) REFERENCES `user` (`id`) ON UPDATE CASCADE)
+ERROR - 2025-07-23 10:39:19 --> Cannot add or update a child row: a foreign key constraint fails (`cafein`.`antrian`, CONSTRAINT `antrian_ibfk_1` FOREIGN KEY (`idUser`) REFERENCES `user` (`id`) ON UPDATE CASCADE)
+CRITICAL - 2025-07-23 12:12:54 --> Undefined variable: totalTime
+#0 C:\laragon\www\pointofsale\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\laragon\\www\\...', 40, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(497): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-07-23 12:27:02 --> file_get_contents(): read of 8192 bytes failed with errno=13 Permission denied
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'file_get_conten...', 'C:\\laragon\\www\\...', 80, Array)
+#1 C:\laragon\www\pointofsale\system\Debug\Toolbar\Collectors\History.php(80): file_get_contents('C:\\laragon\\www\\...')
+#2 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1753291621, 20)
+#3 C:\laragon\www\pointofsale\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\laragon\www\pointofsale\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\laragon\www\pointofsale\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\laragon\www\pointofsale\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\laragon\www\pointofsale\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
